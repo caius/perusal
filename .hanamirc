@@ -1,0 +1,3 @@
+project=perusal
+test=rspec
+template=erb
