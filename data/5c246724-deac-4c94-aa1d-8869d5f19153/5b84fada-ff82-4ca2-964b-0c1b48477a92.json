@@ -4,19 +4,5 @@
   "link": "http://caiustheory.com/something-goes-here/",
   "published_at": "2017-11-10T00:27:07+0000",
   "guid": "http://caiustheory.com/something-goes-here",
-  "content": "&lt;!-- something --&gt;
-
-&lt;pre&gt;&lt;code&gt;Something goes here
-and something else
-over there slowly
-wrapping lines a
-little each time
-oh no, you fucked
-up one little comma
-and now everything is running away drastically from you
-End it.
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;!-- goes here --&gt;
-"
+  "content": "&lt;!-- something --&gt;\n\n&lt;pre&gt;&lt;code&gt;Something goes here\nand something else\nover there slowly\nwrapping lines a\nlittle each time\noh no, you fucked\nup one little comma\nand now everything is running away drastically from you\nEnd it.\n&lt;/code&gt;&lt;/pre&gt;\n\n&lt;!-- goes here --&gt;\n"
 }
