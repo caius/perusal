@@ -2,6 +2,7 @@
 *.rbc
 /.config
 /coverage/
+/db/*.sqlite3
 /InstalledFiles
 /pkg/
 /public/assets*
